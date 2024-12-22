@@ -1,6 +1,6 @@
 # Webz.io News Dataset Repository
 
-![webz.io Logo ](webz_logo.png)
+![webz.io Logo ](https://github.com/Webhose/free-news-datasets/blob/master/webz_logo.png)
 
 ## Introduction
 
