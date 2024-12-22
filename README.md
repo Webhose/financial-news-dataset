@@ -1,4 +1,4 @@
-# Webz.io News Dataset Repository
+# Webz.io Financial News Dataset Repository
 
 ![webz.io Logo ](https://github.com/Webhose/free-news-datasets/blob/master/webz_logo.png)
 
