@@ -6,6 +6,9 @@
 
 Welcome to the [Webz.io](https://webz.io) Financial News Dataset Repository! This repository is created by [Webz.io](https://webz.io) and is dedicated to providing free datasets of publicly available news articles categorized as financial news. We release new datasets weekly, each containing around 1,000 news articles focused on various financial topics.
 
+The data is created by running the following query against Webz.io open web repository:  ```topic:"Financial and Economic News" language:english``` with a random sentiment filter of positive or negative. 
+
+
 To get ongoing free access to online news data, you can use Webz.io's free [News API](https://webz.io/products/news-api#lite) Lite. 
 
 ## Dataset Overview
